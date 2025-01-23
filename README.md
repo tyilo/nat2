@@ -1,6 +1,6 @@
 # Nat2
 
-Do the naturals number start from 0 or 1?
+Do the natural numbers start from 0 or 1?
 
 Well, why not make everyone angry and make them start from 2 instead?
 
